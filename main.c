@@ -2,7 +2,7 @@
 #include"misc.h"
 int main()
 {
-	printf("Sivasankar\n");
+	printf("Shiva is hardly trying for job\n");
 	myfun();
 	fflush(stdout);
 	return 0;
